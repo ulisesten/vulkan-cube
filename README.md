@@ -1,6 +1,8 @@
 
 # Vulkan Cube
 
+Not working on Windows yet, but you can test it and add the missing libraries for the windows part
+
 # Building
 On terminal
 
